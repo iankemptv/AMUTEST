@@ -80,9 +80,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.2403192934782608,
-                "green": 1,
-                "red": 0
+                "blue": 0,
+                "green": 0,
+                "red": 1
               },
               "position": 0
             },
