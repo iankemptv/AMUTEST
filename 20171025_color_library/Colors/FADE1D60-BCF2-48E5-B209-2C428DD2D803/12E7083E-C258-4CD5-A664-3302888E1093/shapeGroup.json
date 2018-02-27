@@ -80,11 +80,11 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0.7294117647058823
+                "blue": 0.3162681502525253,
+                "green": 1,
+                "red": 0.3770004460096464
               },
-              "position": 0
+              "position": 0.4608378507653061
             },
             {
               "_class": "gradientStop",
@@ -99,6 +99,11 @@
             }
           ],
           "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/55f4a1a0e02fd4b3744db89f9a6168d67eedda93",
+          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,
