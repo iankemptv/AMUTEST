@@ -80,11 +80,33 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.8002763605442177,
-                "green": 0.173639508626604,
-                "red": 0.6978944564095805
+                "blue": 0,
+                "green": 0,
+                "red": 0.6712106717687075
               },
-              "position": 0.6321735503105184
+              "position": 0.6865632971938775
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6819196428571429,
+                "green": 0.4047739727896932,
+                "red": 0
+              },
+              "position": 0.9397256641267779
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0.4698620908749029,
+                "red": 0.6819196428571429
+              },
+              "position": 0.003629342813080583
             },
             {
               "_class": "gradientStop",
