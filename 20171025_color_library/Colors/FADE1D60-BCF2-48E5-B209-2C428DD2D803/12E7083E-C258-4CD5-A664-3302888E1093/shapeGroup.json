@@ -71,7 +71,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.5, 0.041733099489795922}",
+          "from": "{0, 0}",
           "gradientType": 2,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -80,25 +80,36 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3162681502525253,
-                "green": 1,
-                "red": 0.3770004460096464
+                "blue": 0.4812456861497741,
+                "green": 0.6013233418367347,
+                "red": 0.2597691212160468
               },
-              "position": 0.4608378507653061
+              "position": 0.4850296895556294
             },
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.7921568627450979,
-                "red": 0
+                "blue": 0,
+                "green": 0.4698620908749029,
+                "red": 0.6819196428571429
+              },
+              "position": 0.003629342813080583
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8499999999999996,
+                "green": 0,
+                "red": 1
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
+          "to": "{1, 1}"
         },
         "image": {
           "_class": "MSJSONFileReference",
